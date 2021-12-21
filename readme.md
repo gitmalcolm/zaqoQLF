@@ -7,6 +7,9 @@
 ## **Experience**
 erere
 
+## **Statistics :**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqoenv&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaqoenv)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## **Contact**
 
