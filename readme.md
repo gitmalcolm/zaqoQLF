@@ -1,8 +1,8 @@
 ![](https://i.ibb.co/pWbVrCH/ZAQO-SLEEP.gif)
 # Zaqo's Github
 <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zaqoenv&show_icons=true"/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=zaqoenv"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zaqoenv&theme=midnight-purple&show_icons=true"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=zaqoenv&theme=midnight-purple"/>
 
 
 </div>
@@ -10,9 +10,14 @@
 
 ## **Experience**
 
-Working mostly with **python**, learning neuronal network & other stuff...
+<div>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+  
+Working mostly with **Python**, actually learning neuronal network
+  
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
 
-*keep learning.*
+</div>
 
 
 
