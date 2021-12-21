@@ -22,6 +22,13 @@
 <h5>● About C#/C Sharp: In C Sharp im not very experienced in that language but i've made few games in the paste with Unity and that why i learn few things in this language</h5>
 <h5>● About Svelte.js FrameWork: I learn a little bit of that language few weeks ago, simple framework good to use to make website with CSS & HTML
 </div>
+  
+  
+  
+  
+  
+  
+*keep learning*
 
 ## **Contact**
 
