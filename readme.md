@@ -1,4 +1,4 @@
-![](https://s7.gifyu.com/images/ONIZUKA_GIF_8.md.gif)
+![](https://s7.gifyu.com/images/ONIZUKA_GIF_8.gif)
 # Zaqo's Github
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zaqoenv&theme=midnight-purple&show_icons=true"/>
