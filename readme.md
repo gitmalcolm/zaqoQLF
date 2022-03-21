@@ -1,4 +1,4 @@
-![](https://freight.cargo.site/t/original/i/e116af51ca8f2bb4b2478835eb057e96b7856707ff420f05395ac897556b0075/ONIZUKA_GIF_8.gif)
+![](https://s7.gifyu.com/images/ONIZUKA_GIF_8.md.gif)
 # Zaqo's Github
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zaqoenv&theme=midnight-purple&show_icons=true"/>
